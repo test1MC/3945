@@ -5,8 +5,8 @@
 ######################################################################################
 
 # MadCap file patterns
-/Target/Output
-/Target/Project/Users
+#/Target/Output
+#/Target/Project/Users
 /.svn
 **/Thumbs.db
 *.liprjdb3
